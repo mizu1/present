@@ -44,7 +44,7 @@ Present は、`tkinter` を使用して構築されたデスクトップアプ�
 
 ## ライセンス
 
-このプロジェクトは MIT ライセンスの下で提供されています。詳細は [/mizu1/present/blob/main/License](/mizu1/present/blob/main/License) ファイルをご覧ください。
+このプロジェクトは MIT ライセンスの下で提供されています。詳細は [/blob/main/Licensee](/blob/main/License) ファイルをご覧ください。
 
 ## 謝辞
 
